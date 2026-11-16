@@ -1,0 +1,15 @@
+TEST
+10 señales de 30 s
+Columnas: tiempo_s (segundos), ecg_mV (milivoltios)
+
+Frecuencia de muestreo de cada señal:
+  senalA: 360 Hz (10800 muestras)
+  senalB: 360 Hz (10800 muestras)
+  senalC: 360 Hz (10800 muestras)
+  senalD: 360 Hz (10800 muestras)
+  senalE: 360 Hz (10800 muestras)
+  senalF: 360 Hz (10800 muestras)
+  senalG: 360 Hz (10800 muestras)
+  senalH: 360 Hz (10800 muestras)
+  senalI: 90 Hz (2700 muestras)
+  senalJ: 90 Hz (2700 muestras)
